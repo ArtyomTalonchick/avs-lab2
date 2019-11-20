@@ -1,0 +1,4 @@
+﻿  Lab2.cpp
+d:\my_study\semester_5\abc\lab2\lab2\task1.h(20): warning C4018: >=: несоответствие типов со знаком и без знака
+d:\my_study\semester_5\abc\lab2\lab2\task1.h(51): warning C4018: >=: несоответствие типов со знаком и без знака
+  Lab2.vcxproj -> D:\My_study\Semester_5\ABC\Lab2\Debug\Lab2.exe

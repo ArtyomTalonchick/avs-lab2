@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  Lab2.cpp
+d:\my_study\semester_5\abc\lab2\lab2\task1.h(20): warning C4018: >=: несоответствие типов со знаком и без знака
+d:\my_study\semester_5\abc\lab2\lab2\task1.h(51): warning C4018: >=: несоответствие типов со знаком и без знака
+  Создание кода
+  All 483 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Lab2.vcxproj -> D:\My_study\Semester_5\ABC\Lab2\Release\Lab2.exe
